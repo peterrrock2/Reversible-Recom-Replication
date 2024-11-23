@@ -1,0 +1,409 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": [],
+    "nodes": [
+        {
+            "TOTPOP": 1,
+            "x": 0,
+            "y": 0,
+            "county": "1",
+            "district": "1",
+            "precinct": "Pct 0",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 0
+        },
+        {
+            "TOTPOP": 1,
+            "x": 0,
+            "y": 1,
+            "county": "1",
+            "district": "1",
+            "precinct": "Pct 1",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 1
+        },
+        {
+            "TOTPOP": 1,
+            "x": 0,
+            "y": 2,
+            "county": "5",
+            "district": "1",
+            "precinct": "Pct 2",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 2
+        },
+        {
+            "TOTPOP": 1,
+            "x": 0,
+            "y": 3,
+            "county": "5",
+            "district": "1",
+            "precinct": "Pct 3",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 3
+        },
+        {
+            "TOTPOP": 1,
+            "x": 1,
+            "y": 0,
+            "county": "2",
+            "district": "2",
+            "precinct": "Pct 4",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 4
+        },
+        {
+            "TOTPOP": 1,
+            "x": 1,
+            "y": 1,
+            "county": "2",
+            "district": "2",
+            "precinct": "Pct 5",
+            "boundary_node": false,
+            "boundary_perim": 0,
+            "id": 5
+        },
+        {
+            "TOTPOP": 1,
+            "x": 1,
+            "y": 2,
+            "county": "6",
+            "district": "2",
+            "precinct": "Pct 6",
+            "boundary_node": false,
+            "boundary_perim": 0,
+            "id": 6
+        },
+        {
+            "TOTPOP": 1,
+            "x": 1,
+            "y": 3,
+            "county": "6",
+            "district": "2",
+            "precinct": "Pct 7",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 7
+        },
+        {
+            "TOTPOP": 1,
+            "x": 2,
+            "y": 0,
+            "county": "3",
+            "district": "3",
+            "precinct": "Pct 8",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 8
+        },
+        {
+            "TOTPOP": 1,
+            "x": 2,
+            "y": 1,
+            "county": "3",
+            "district": "3",
+            "precinct": "Pct 9",
+            "boundary_node": false,
+            "boundary_perim": 0,
+            "id": 9
+        },
+        {
+            "TOTPOP": 1,
+            "x": 2,
+            "y": 2,
+            "county": "7",
+            "district": "3",
+            "precinct": "Pct 10",
+            "boundary_node": false,
+            "boundary_perim": 0,
+            "id": 10
+        },
+        {
+            "TOTPOP": 1,
+            "x": 2,
+            "y": 3,
+            "county": "7",
+            "district": "3",
+            "precinct": "Pct 11",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 11
+        },
+        {
+            "TOTPOP": 1,
+            "x": 3,
+            "y": 0,
+            "county": "4",
+            "district": "4",
+            "precinct": "Pct 12",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 12
+        },
+        {
+            "TOTPOP": 1,
+            "x": 3,
+            "y": 1,
+            "county": "4",
+            "district": "4",
+            "precinct": "Pct 13",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 13
+        },
+        {
+            "TOTPOP": 1,
+            "x": 3,
+            "y": 2,
+            "county": "8",
+            "district": "4",
+            "precinct": "Pct 14",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 14
+        },
+        {
+            "TOTPOP": 1,
+            "x": 3,
+            "y": 3,
+            "county": "8",
+            "district": "4",
+            "precinct": "Pct 15",
+            "boundary_node": true,
+            "boundary_perim": 1,
+            "id": 15
+        }
+    ],
+    "adjacency": [
+        [
+            {
+                "shared_perim": 92,
+                "id": 4
+            },
+            {
+                "shared_perim": 62,
+                "id": 1
+            }
+        ],
+        [
+            {
+                "shared_perim": 62,
+                "id": 0
+            },
+            {
+                "shared_perim": 72,
+                "id": 5
+            },
+            {
+                "shared_perim": 52,
+                "id": 2
+            }
+        ],
+        [
+            {
+                "shared_perim": 52,
+                "id": 1
+            },
+            {
+                "shared_perim": 62,
+                "id": 6
+            },
+            {
+                "shared_perim": 56,
+                "id": 3
+            }
+        ],
+        [
+            {
+                "shared_perim": 56,
+                "id": 2
+            },
+            {
+                "shared_perim": 54,
+                "id": 7
+            }
+        ],
+        [
+            {
+                "shared_perim": 92,
+                "id": 0
+            },
+            {
+                "shared_perim": 92,
+                "id": 8
+            },
+            {
+                "shared_perim": 67,
+                "id": 5
+            }
+        ],
+        [
+            {
+                "shared_perim": 72,
+                "id": 1
+            },
+            {
+                "shared_perim": 67,
+                "id": 4
+            },
+            {
+                "shared_perim": 61,
+                "id": 9
+            },
+            {
+                "shared_perim": 67,
+                "id": 6
+            }
+        ],
+        [
+            {
+                "shared_perim": 62,
+                "id": 2
+            },
+            {
+                "shared_perim": 67,
+                "id": 5
+            },
+            {
+                "shared_perim": 63,
+                "id": 10
+            },
+            {
+                "shared_perim": 95,
+                "id": 7
+            }
+        ],
+        [
+            {
+                "shared_perim": 54,
+                "id": 3
+            },
+            {
+                "shared_perim": 95,
+                "id": 6
+            },
+            {
+                "shared_perim": 88,
+                "id": 11
+            }
+        ],
+        [
+            {
+                "shared_perim": 92,
+                "id": 4
+            },
+            {
+                "shared_perim": 93,
+                "id": 12
+            },
+            {
+                "shared_perim": 52,
+                "id": 9
+            }
+        ],
+        [
+            {
+                "shared_perim": 61,
+                "id": 5
+            },
+            {
+                "shared_perim": 52,
+                "id": 8
+            },
+            {
+                "shared_perim": 68,
+                "id": 13
+            },
+            {
+                "shared_perim": 53,
+                "id": 10
+            }
+        ],
+        [
+            {
+                "shared_perim": 63,
+                "id": 6
+            },
+            {
+                "shared_perim": 53,
+                "id": 9
+            },
+            {
+                "shared_perim": 74,
+                "id": 14
+            },
+            {
+                "shared_perim": 73,
+                "id": 11
+            }
+        ],
+        [
+            {
+                "shared_perim": 88,
+                "id": 7
+            },
+            {
+                "shared_perim": 73,
+                "id": 10
+            },
+            {
+                "shared_perim": 75,
+                "id": 15
+            }
+        ],
+        [
+            {
+                "shared_perim": 93,
+                "id": 8
+            },
+            {
+                "shared_perim": 51,
+                "id": 13
+            }
+        ],
+        [
+            {
+                "shared_perim": 68,
+                "id": 9
+            },
+            {
+                "shared_perim": 51,
+                "id": 12
+            },
+            {
+                "shared_perim": 94,
+                "id": 14
+            }
+        ],
+        [
+            {
+                "shared_perim": 74,
+                "id": 10
+            },
+            {
+                "shared_perim": 94,
+                "id": 13
+            },
+            {
+                "shared_perim": 87,
+                "id": 15
+            }
+        ],
+        [
+            {
+                "shared_perim": 75,
+                "id": 11
+            },
+            {
+                "shared_perim": 87,
+                "id": 14
+            }
+        ]
+    ]
+}

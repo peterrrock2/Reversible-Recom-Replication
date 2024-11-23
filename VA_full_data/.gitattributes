@@ -1,0 +1,6 @@
+VA_Forest_steps_10000000_rng_seed_278986_gamma_0.0_alpha_1.0_ndists_11_20241112_124346_tallies.parquet filter=lfs diff=lfs merge=lfs -text
+VA_RevRecom_steps_15000000000_rng_seed_278986_plan_CD_12_20241113_095352_tallies.parquet filter=lfs diff=lfs merge=lfs -text
+VA_RevRecom_steps_15000000000_rng_seed_278986_plan_CD_16_20241113_095352_tallies.parquet filter=lfs diff=lfs merge=lfs -text
+VA_RevRecom_steps_15000000000_rng_seed_278986_plan_rand_dist_eps0p01_20241113_095352_tallies.parquet filter=lfs diff=lfs merge=lfs -text
+VA_RevRecom_steps_5000000000_rng_seed_278986_plan_CD_12_20241106_152157_tallies.parquet filter=lfs diff=lfs merge=lfs -text
+VA_RevRecom_steps_5000000000_rng_seed_278986_plan_CD_16_20240618_174413_tallies.parquet filter=lfs diff=lfs merge=lfs -text
